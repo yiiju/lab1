@@ -1,0 +1,16 @@
+命令稿啟動於 2017年03月08日 (週三) 23時49分11秒
+]0;yiju@yiju-VirtualBox: ~[01;32myiju@yiju-VirtualBox[00m:[01;34m~[00m$ whoami;pwd
+yiju
+/home/yiju
+]0;yiju@yiju-VirtualBox: ~[01;32myiju@yiju-VirtualBox[00m:[01;34m~[00m$ git config -l
+user.name=yiiju
+user.email=yijuhung0129@gmail.com
+core.editor=vim
+]0;yiju@yiju-VirtualBox: ~[01;32myiju@yiju-VirtualBox[00m:[01;34m~[00m$ git clone http[K[K[K[Khttps://github.com/yiiju/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;yiju@yiju-VirtualBox: ~[01;32myiju@yiju-VirtualBox[00m:[01;34m~[00m$ exit
+
+命令稿已於 2017年03月08日 (週三) 23時50分29秒
+ 完成
